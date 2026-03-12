@@ -1,5 +1,3 @@
-using System;
-
 namespace helloworld_app
 
 {
