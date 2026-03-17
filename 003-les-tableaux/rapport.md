@@ -1,0 +1,5 @@
+* [StoreValues.cs](/003-les-tableaux/StoreValues.cs)
+* [AscDescMinMax.cs](/003-les-tableaux/AscDescMinMax.cs)
+* [RandomValuesArray.cs](/003-les-tableaux/RandomValuesArray.cs)
+* [ReverseArray.cs](/003-les-tableaux/ReverseArray.cs)
+* [CaptureInputs.cs](/003-les-tableaux/CaptureInputs.cs)
