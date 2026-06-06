@@ -382,7 +382,7 @@ conf t
 
 username admin privilege 15 secret CmMO2026
 
-ip domain-name votre-nom.ca
+ip domain-name el-hasnaoui.ca
 
 crypto key generate rsa
 1024
