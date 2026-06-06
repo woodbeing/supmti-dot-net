@@ -78,7 +78,7 @@ ip ospf message-digest-key 1 md5 CmMO2026
 no shut
 
 router ospf 1
-network 1.0.0.0 0.0.0.3 area 0
+network 1.105.0.0 0.0.0.3 area 0
 network 2.105.0.0 0.0.255.255 area 0
 network 8.0.0.0 0.255.255.255 area 0
 
