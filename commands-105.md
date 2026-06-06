@@ -64,14 +64,14 @@ conf t
 hostname Ouest
 
 interface s0/0/0
-ip address 1.0.0.1 255.255.255.252
-no shut
-
-interface g0/0
-ip address 2.105.0.1 255.255.0.0
+ip address 1.105.0.1 255.255.255.252
 no shut
 
 interface g0/1
+ip address 2.105.0.1 255.255.0.0
+no shut
+
+interface g0/0
 ip address 8.0.0.1 255.0.0.0
 ip ospf authentication message-digest
 ip ospf message-digest-key 1 md5 CmMO2026
